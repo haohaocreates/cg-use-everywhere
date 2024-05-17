@@ -1,14 +1,14 @@
 [project]
 name = "cg-use-everywhere"
-description = "removes spaghetti from comfy"
-version = "1.0.1"
+description = "removes spaghetti noodles from comfy!"
+version = "1.0.2"
 license = "LICENSE"
 
 [project.urls]
 Repository = "https://github.com/haohaocreates/cg-use-everywhere"
 
 [tool.comfy]
-PublisherId = "haohaotutorial"
+PublisherId = "haohao-demo"
 DisplayName = "cg-use-everywhere"
 Icon = ""
 Models = [{location = "/checkpoints/model.safetensor", model_url = "https://example.com/model.zip"}]
